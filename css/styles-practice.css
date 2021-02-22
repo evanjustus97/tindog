@@ -1,0 +1,30 @@
+
+#title {
+  background-color: #ff4c68;
+}
+
+.navbar {
+  margin: auto 15px auto;
+}
+
+h1 {
+  font-family: "Montserrat";
+  font-weight: 900;
+  font-size: 3rem;
+  line-height: 1.5;
+  color: white;
+  padding: 50px 20px 20px 15px;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+.btn {
+  margin: 7px;
+}
+
+.navbar-brand {
+  font-weight: 500;
+  font-size: 40px;
+}
